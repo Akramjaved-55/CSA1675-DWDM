@@ -1,7 +1,0 @@
-workers<-c("Rajesh","Jega","Aswin","Vinoth")
-sal<-c(180000,130000,140000,150000)
-df<-data.frame(workers,sal)
-View(df)
-library(plotrix)
-hist(sal)
-View(sal)

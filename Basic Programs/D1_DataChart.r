@@ -1,5 +1,0 @@
-name<-c("rajesh","harish","velan")
-salary<-c(75000,65000,100000)
-df<-data.frame(name,salary)
-write.csv(df,"salary.csv")
-View(df)
